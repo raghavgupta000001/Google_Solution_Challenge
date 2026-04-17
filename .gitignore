@@ -1,0 +1,14 @@
+# Node & Web
+node_modules/
+web/node_modules/
+firebase/functions/node_modules/
+.env
+
+# Flutter Mobile
+mobile/.dart_tool/
+mobile/build/
+mobile/.pub-cache/
+
+# Firebase & Local Logs
+firebase-debug.log
+.firebase/
